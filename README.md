@@ -1,8 +1,3 @@
-# Data-Migration-and-Transformation-Script
-
-Certainly! Here's a draft for your project description to be published on GitHub:
-
----
 
 # Data Migration and Transformation Script
 
